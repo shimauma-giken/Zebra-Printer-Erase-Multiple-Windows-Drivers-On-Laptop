@@ -1,2 +1,10 @@
-# Zebra-Printer-Erase-Multiple-Windows-Drivers-On Laptop
- 複数のWindows プリンタドライバを一括で削除する方法
+## 複数のWindows プリンタドライバを一括で削除する方法
+
+
+1. 「Windows」+「R」を押下。。
+1. 「印刷の管理」を管理者として起動。
+1. 「印刷の管理」> 「カスタムフィルタ」> 「全てのプリンタ」を選択。
+2.  削除対象のプリンタを選択。
+3.  「選択プリンタを右クリック」>「削除」
+
+    ![Alt text](image.png)
